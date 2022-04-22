@@ -1,0 +1,23 @@
+Input:
+NIM           : 2100018058
+Nama          : Rafi
+Banyak Mata Kuliah : 2
+Daftar Mata Kuliah
+Mata Kuliah 1 : Matdis
+Jumlah SKS    : 2
+Mata Kuliah 2 : PKN
+Jumlah SKS    : 2
+(lanjut ngikut matkul)
+
+Output :
+
+NIM  : 2100018058
+Nama : Rafi
+Daftar Mata Kuliah
+Mata Kuliah 1 : Matdis
+Jumlah SKS    : 2
+Mata Kuliah 2 : PKN
+Jumlah SKS    : 2
+
+Total SKS     : 4
+Total Pembayaran : (4*150000)*0.75
